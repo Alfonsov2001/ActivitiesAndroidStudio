@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.miprimeraapp-debug-31:/layout_activity_localizacion.xml.flat",
+        "source": "com.example.miprimeraapp-main-33:/layout/activity_localizacion.xml"
+    },
+    {
+        "merged": "com.example.miprimeraapp-debug-31:/layout_activity_sobre_nosotros.xml.flat",
+        "source": "com.example.miprimeraapp-main-33:/layout/activity_sobre_nosotros.xml"
+    },
+    {
+        "merged": "com.example.miprimeraapp-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.miprimeraapp-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.miprimeraapp-debug-31:/layout_activity_contacto.xml.flat",
+        "source": "com.example.miprimeraapp-main-33:/layout/activity_contacto.xml"
+    },
+    {
+        "merged": "com.example.miprimeraapp-debug-31:/layout_activity_inicio.xml.flat",
+        "source": "com.example.miprimeraapp-main-33:/layout/activity_inicio.xml"
+    }
+]

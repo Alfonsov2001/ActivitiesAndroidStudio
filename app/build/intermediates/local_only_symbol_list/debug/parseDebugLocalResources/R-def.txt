@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+id btnContacto
+id btnEnviar
+id btnLocalizacion
+id btnLogin
+id btnSobreNosotros
+id etEmail
+id etMensaje
+id etNombre
+id etPassword
+id etUsuario
+id tvBienvenida
+id tvResultadoContacto
+layout activity_contacto
+layout activity_inicio
+layout activity_localizacion
+layout activity_login
+layout activity_sobre_nosotros
